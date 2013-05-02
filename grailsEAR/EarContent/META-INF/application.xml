@@ -4,10 +4,4 @@
   <module>
     <ejb>grailsEJB.jar</ejb>
   </module>
-  <module>
-    <web>
-      <web-uri>grailsWeb.war</web-uri>
-      <context-root>grailsWeb</context-root>
-    </web>
-  </module>
 </application>
