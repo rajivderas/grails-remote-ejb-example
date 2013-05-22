@@ -10,6 +10,6 @@ import com.tunkkaus.data.ExampleData;
 
 public interface DataFetchManager {
 
-	List<ExampleData> searchData(String name);
-	
+  List<ExampleData> searchData(String name);
+  
 }
